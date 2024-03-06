@@ -1,0 +1,103 @@
+body{
+    margin: 0;
+}
+
+
+.topcontainer {
+    display: flex;
+    background-color: #DDE7EE;
+    margin: 0;
+}
+
+
+.topdiv{
+    width: 50%;
+    margin: 5px;
+    padding: 8px;
+}
+.topdiv h1{
+    font-size: 55px;
+
+}
+.topdiv p{
+    font-size: 22px;
+
+}
+#free-estimate {
+    text-decoration-line: none;
+    background-color: #4B8099;
+    color: white;
+    padding: 12px;
+    margin: 5px 
+    
+}
+
+#service{
+    border-style: solid;
+    color: #6291A6;
+    text-decoration-line: none;
+    background-color: transparent color: #4B8099;
+    padding: 10px;
+    margin-left: 68px;
+    
+}
+.do-div{
+    background-color: white;
+    text-align: center;
+
+}
+.do-div p{
+    font-size: 16px;
+}
+.service-div{
+    background-color: #EDF2F6;
+    display: flex;
+    
+    
+}
+
+.design-service{
+    width: 30%;
+    padding: 20px;
+    margin: 10px;
+    
+}
+.dev-service{
+    width: 30%;
+    padding: 20px;
+    margin: 10px;
+}
+.marketing-service{
+    width: 30%;
+    padding: 20px;
+    margin: 10px;
+}
+
+.design-service img{
+    width: 60px; 
+    margin-left: 91px;
+
+}
+.dev-service img{
+    width: 60px;
+    margin-left: 91px;
+}
+.marketing-service img{
+    width: 60px;
+    margin-left: 91px;
+}
+.midcontainer{
+    display: flex;
+    background-color: #DDE7EE;
+    margin-top: 41px;
+}
+.middiv{
+    width: 50%;
+    margin: 5px;
+    padding: 8px
+}.middiv h2{
+font-size: 42px;
+}
+.middiv p{
+    font-size: 25px;
+}
